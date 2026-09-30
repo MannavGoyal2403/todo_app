@@ -1,7 +1,5 @@
 # Todo App
 
-Simple todo app with React frontend and Express backend.
-
 ## Features
 - View todos
 - Add todo
